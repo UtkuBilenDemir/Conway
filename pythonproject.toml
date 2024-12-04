@@ -1,0 +1,4 @@
+[project]
+name = "conway"
+version = "0.1"
+dependencies = ["pygame", "numpy"]
